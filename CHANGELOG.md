@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.0.1 (2026-11-02)
+
+### Fixed
+- Permission pages showed `[[pluginname]]` instead of the plugin's name next
+  to its capabilities.
+
 ## v2.0.0 (2026-10-19)
 
 ### Changed

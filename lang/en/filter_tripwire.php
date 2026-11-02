@@ -38,6 +38,7 @@ $string['local_lockdown_inherited_off'] = 'Inherited: allowed';
 $string['local_lockdown_inherited_on'] = 'Inherited: blocked';
 $string['local_lockdown_intro'] = 'Untick an action to allow it here and in everything inside this context (activity ← course ← category ← site). Each box starts at the value inherited from the parent. Only boxes you change are saved here, so later changes on the parent still reach this context. Applies to restricted roles only.';
 $string['noscriptwarning'] = 'JavaScript must be enabled to access this content. Please enable JavaScript in your browser and reload the page.';
+$string['pluginname'] = 'Tripwire';
 $string['privacy:metadata'] = 'The Tripwire filter does not store any personal data.';
 $string['setting_block_contextmenu'] = 'Block the right-click menu';
 $string['setting_block_contextmenu_desc'] = 'Stops the browser context menu, which offers copy, inspect, and save image.';
